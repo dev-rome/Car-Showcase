@@ -6,7 +6,11 @@ import Button from "./Button";
 
 const Hero = () => {
   const handleScroll = () => {
-    //
+    const section = document.getElementById("discover");
+
+    if (section) {
+      section.scrollIntoView({ behavior: "smooth" });
+    }
   };
 
   return (
