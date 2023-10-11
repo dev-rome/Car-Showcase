@@ -1,5 +1,5 @@
 # Project Name
-Live demo [CarHub]([https://www.example.com](https://car-showcase-gules-eta.vercel.app/)https://car-showcase-gules-eta.vercel.app/).
+[CarHub](https://car-showcase-gules-eta.vercel.app/)
 
 ## Screenshots
 <img width="1440" alt="Screenshot 2023-10-11 at 12 04 23 PM" src="https://github.com/dev-rome/Car-Showcase/assets/84602714/3fac33d1-bca9-4dbe-9bee-b698b8a63dbe">
